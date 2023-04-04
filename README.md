@@ -1,4 +1,7 @@
 # ICICS2023ExpData
 
 How to run :
-Open MLR.ipynb in Colab.
+
+1. Open MLR.ipynb in Colab.
+
+2. Please follow the guidance to run the programme.
