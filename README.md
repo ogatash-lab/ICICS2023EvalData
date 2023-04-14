@@ -6,3 +6,4 @@ How to run :
 
 2. Please follow the guidance to run the programme.
 
+The data we used in our evaluation is in ./data.
