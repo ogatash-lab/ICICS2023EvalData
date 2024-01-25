@@ -1,4 +1,4 @@
-# ICICS2023ExpData
+# COMPSAC 2024ExpData
 
 How to run :
 
