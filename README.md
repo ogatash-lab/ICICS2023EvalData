@@ -1,4 +1,4 @@
-# COMPSAC 2024ExpData
+# COMPSAC 2024 Exp Data
 
 How to run :
 
